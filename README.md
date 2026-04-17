@@ -40,5 +40,5 @@ python preprocessor.py test_input.c test_cleaned.c
 `https://github.com/USERNAME/REPOSITORY_NAME`
 
 ### Автор
-Студент: *впиши ФИО*  
-Группа: *впиши группу*
+Студент: *Баранов Иван Александрович*  
+Группа: *231-329*
