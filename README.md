@@ -37,7 +37,7 @@ python preprocessor.py test_input.c test_cleaned.c
 ### Ссылка на репозиторий
 Добавь сюда ссылку после создания репозитория на GitHub:
 
-`https://github.com/USERNAME/REPOSITORY_NAME`
+`[https://github.com/USERNAME/REPOSITORY_NAME](https://github.com/Platonich123/Baranov_preprocessor_lab1.git)`
 
 ### Автор
 Студент: *Баранов Иван Александрович*  
